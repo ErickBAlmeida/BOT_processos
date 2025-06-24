@@ -25,8 +25,3 @@ Este projeto automatiza o processo de anexar petições e procurações no siste
 
 ```sh
 pip install selenium pywinauto win10toast
-```
-
-ALERTAS:
-->  As 'classes', 'IDs', 'names' e 'values' dos elementos no DOM variam com o estado do selecionado. 
-- 'XPATH' é a maneira mais segura e robusta de achar os elementos no DOM.

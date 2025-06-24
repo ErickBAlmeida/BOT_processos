@@ -3,3 +3,4 @@ dict.py
 *.pdf
 script_de_testes.py
 script.py
+__pycache__
