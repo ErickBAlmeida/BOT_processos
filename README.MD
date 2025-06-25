@@ -1,4 +1,4 @@
-# Automação PJE - Script de Testes
+# Automação de Procesos Eletrônicos - Script de Testes
 
 Este projeto automatiza o processo de anexar petições e procurações no sistema PJE (Processo Judicial Eletrônico) utilizando Python, Selenium e Pywinauto.
 
