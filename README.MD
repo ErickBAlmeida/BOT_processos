@@ -24,4 +24,4 @@ Este projeto automatiza o processo de anexar petições e procurações no siste
 ## Instalação
 
 ```sh
-pip install selenium pywinauto win10toast
+pip install -r requirements.txt
