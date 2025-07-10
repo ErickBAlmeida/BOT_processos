@@ -1,6 +1,10 @@
-app.py
-dict.py
+__pycache__/
+venv/
+
+.env
 *.pdf
-script_de_testes.py
-script.py
-__pycache__
+
+app.py
+testes.py
+backup.py
+dict.py
