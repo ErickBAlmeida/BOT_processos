@@ -1,14 +1,16 @@
-from selenium import webdriver
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.support.ui import Select
-from selenium.webdriver.common.by import By
-from pywinauto.application import Application
-from win10toast import ToastNotifier
-from dict import *
-import time
 import os
 import re
+import time
+
+from pywinauto.application import Application
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support.ui import Select, WebDriverWait
+from win10toast import ToastNotifier
+
+from dict import *
+
 
 class App:
     def __init__(self):
