@@ -1,4 +1,4 @@
-# Automação de Procesos Eletrônicos - Script de Testes
+# Automação de Procesos Eletrônicos
 
 Este projeto automatiza o processo de anexar petições e procurações no sistema processos eletrônicos utilizando Python, Selenium e Pywinauto.
 
