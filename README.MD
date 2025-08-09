@@ -1,6 +1,6 @@
 # Automação de Procesos Eletrônicos
 
-Este projeto automatiza o processo de anexar petições e procurações no sistema processos eletrônicos utilizando Python, Selenium e Pywinauto.
+Este projeto automatiza o processo de anexar petições e procurações em determinado sistema de processos judiciais web utilizando Python, Selenium e Pywinauto.
 
 ## Funcionalidades
 
